@@ -9,12 +9,14 @@ workshop for reference.
 
 ## Agenda
 
-1. Introduction to CoFI
-2. Notebook session 1 - linear regression
-3. Introduction to Espresso
-4. Notebook session 2 - seismic wave tomography
-5. Notebook session 3 - electrical resistivity tomography
-6. Closing discussions
+| Topic | Materials | Estimated Time |
+| --- | --- | --- |
+| Introduction to CoFI | WIP | 10min |
+| Notebook session 1 - linear regression | [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/inlab-geo/inlab-workshop/blob/main/notebooks/1_linear_regression.ipynb) | 2h |
+| Introduction to Espresso | [GoogleSlides](https://docs.google.com/presentation/d/1TGMrXouSSxyteu4VbhKrJ3dAnBDk09vqZndSGPbjFWs/edit?usp=sharing) | 20min |
+| Notebook session 2 - seismic wave tomography | [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/inlab-geo/inlab-workshop/blob/main/notebooks/2_travel_time_tomography.ipynb) | 1h |
+| Notebook session 3 - electrical resistivity tomography | [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670)](https://colab.research.google.com/github/inlab-geo/inlab-workshop/blob/main/notebooks/3_electrical_resistivity_tomography.ipynb) | 30min |
+| Closing discussions | WIP | 30min |
 
 ## Releases
 
