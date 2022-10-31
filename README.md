@@ -20,7 +20,7 @@ workshop for reference.
 
 ## Releases
 
-- 2022-rses-internal (in progress)
+- [2022-rses-internal](https://github.com/inlab-geo/inlab-workshop/tree/2022-rses-internal)
 - 2022-sub22 (to be released)
 
 ## Further resources
