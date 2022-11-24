@@ -1,0 +1,3 @@
+[submodule "cofi-examples"]
+	path = cofi-examples
+	url = git@github.com:inlab-geo/cofi-examples.git
