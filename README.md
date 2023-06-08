@@ -12,10 +12,10 @@ workshop for reference.
 | Topic | Resources | Estimated Time |
 | --- | --- | --- |
 | Introduction to CoFI | [PDF File](files/MS_slides_CoFI_workshop_intro.pdf) | 30min |
-| Notebook session 1 - linear regression | [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670&labelColor=f8f9fa)](https://colab.research.google.com/github/inlab-geo/cofi-examples/blob/main/tutorials/1_linear_regression.ipynb) [![Open In GitHub](https://img.shields.io/badge/open%20in-GitHub-171515?logo=github&labelColor=f8f9fa&style=flat-square&logoColor=171515)](https://github.com/inlab-geo/cofi-examples/blob/459fb3df29041e8a860ba40151e25b95a6568efb/tutorials/1_linear_regression.ipynb) | 1h |
+| Notebook session 1 - linear regression | [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670&labelColor=f8f9fa)](https://colab.research.google.com/github/inlab-geo/cofi-examples/blob/main/tutorials/1_linear_regression.ipynb) [![Open In GitHub](https://img.shields.io/badge/open%20in-GitHub-171515?logo=github&labelColor=f8f9fa&style=flat-square&logoColor=171515)](https://github.com/inlab-geo/cofi-examples/blob/3c53490df5ddbec9319d49a418d5e4ac8e59b3d8/tutorials/1_linear_regression.ipynb) | 1h |
 | Introduction to Espresso | [Google Slides](https://docs.google.com/presentation/d/1TGMrXouSSxyteu4VbhKrJ3dAnBDk09vqZndSGPbjFWs/edit?usp=sharing) | 30min |
-| Notebook session 2 - seismic wave tomography | [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670&labelColor=f8f9fa)](https://colab.research.google.com/github/inlab-geo/cofi-examples/blob/main/tutorials/2_travel_time_tomography.ipynb) [![Open In GitHub](https://img.shields.io/badge/open%20in-GitHub-171515?logo=github&labelColor=f8f9fa&style=flat-square&logoColor=171515)](https://github.com/inlab-geo/cofi-examples/blob/459fb3df29041e8a860ba40151e25b95a6568efb/tutorials/2_travel_time_tomography.ipynb) | 1h |
-| Notebook session 3 - electrical resistivity tomography | [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670&labelColor=f8f9fa)](https://colab.research.google.com/github/inlab-geo/cofi-examples/blob/main/tutorials/3_electrical_resistivity_tomography.ipynb) [![Open In GitHub](https://img.shields.io/badge/open%20in-GitHub-171515?logo=github&labelColor=f8f9fa&style=flat-square&logoColor=171515)](https://github.com/inlab-geo/cofi-examples/blob/459fb3df29041e8a860ba40151e25b95a6568efb/tutorials/3_electrical_resistivity_tomography.ipynb) | 1h |
+| Notebook session 2 - seismic wave tomography | [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670&labelColor=f8f9fa)](https://colab.research.google.com/github/inlab-geo/cofi-examples/blob/main/tutorials/2_travel_time_tomography.ipynb) [![Open In GitHub](https://img.shields.io/badge/open%20in-GitHub-171515?logo=github&labelColor=f8f9fa&style=flat-square&logoColor=171515)](https://github.com/inlab-geo/cofi-examples/blob/3c53490df5ddbec9319d49a418d5e4ac8e59b3d8/tutorials/2_travel_time_tomography.ipynb) | 1h |
+| Notebook session 3 - electrical resistivity tomography | [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670&labelColor=f8f9fa)](https://colab.research.google.com/github/inlab-geo/cofi-examples/blob/main/tutorials/3_electrical_resistivity_tomography.ipynb) [![Open In GitHub](https://img.shields.io/badge/open%20in-GitHub-171515?logo=github&labelColor=f8f9fa&style=flat-square&logoColor=171515)](https://github.com/inlab-geo/cofi-examples/blob/3c53490df5ddbec9319d49a418d5e4ac8e59b3d8/tutorials/3_electrical_resistivity_tomography.ipynb) | 1h |
 | Closing discussions | [PDF File](files/MS_slides_CoFI_workshop_wrap_up.pdf)  | 30min |
 
 ## Releases
@@ -26,7 +26,7 @@ workshop for reference.
 ## Further resources
 
 - [CoFI Documentation](https://cofi.readthedocs.io)
-- [Espresso Documentation](https://cofi-espresso.readthedocs.io)
+- [Espresso Documentation](https://geo-espresso.readthedocs.io)
 - [InLab Website](https://inlab.edu.au)
 
 ## Licence
