@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/inlab-geo/cofi/main/docs/source/_static/latte_art_cropped.png" width="5%" style="vertical-align:bottom"/> InLab Workshop 2022
 
 Hello! Welcome to the material for the InLab workshop we held in 2022, which 
-provided with a hands-on introduction to CoFI, illustrated through 
+provides a hands-on introduction to CoFI, illustrated through 
 interactive problem solving.
 
 All the materials, including slides and Python notebooks are going to be kept
